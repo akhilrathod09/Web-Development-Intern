@@ -1,4 +1,4 @@
-# Web Development Project at Exposys DataLabs
+# Web Development Intern at Navodita Infotech
 
 ## MERN Stack Project: Build and Deploy a Real Time Chat App | JWT, Socket.io
 
